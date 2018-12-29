@@ -1,0 +1,15 @@
+{
+  "name": "xraywp",
+  "version": "3.0.0",
+  "description": "xray implememtation on wordpress",
+  "main": "xray.js",
+  "scripts": {
+    "wordpress": "cd ../../../ && pwd && php -S 127.0.0.1:7000 && npm run xray  ",
+    "xray": "node xray.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "x-ray": "^2.3.3"
+  }
+}

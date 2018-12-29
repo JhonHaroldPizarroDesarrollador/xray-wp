@@ -1,0 +1,12 @@
+[16-Mar-2018 23:46:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_activation_hook() in /home/mammutm2017/public_html/mukava-del-valle-copy/wp-content/plugins/change-image-map/change-image-map.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mammutm2017/public_html/mukava-del-valle-copy/wp-content/plugins/change-image-map/change-image-map.php on line 11
+[16-Mar-2018 23:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_activation_hook() in /home/mammutm2017/public_html/mukava-del-valle-copy/wp-content/plugins/change-image-map/change-image-map.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mammutm2017/public_html/mukava-del-valle-copy/wp-content/plugins/change-image-map/change-image-map.php on line 11
+[16-Mar-2018 23:47:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_activation_hook() in /home/mammutm2017/public_html/mukava-del-valle-copy/wp-content/plugins/change-image-map/change-image-map.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mammutm2017/public_html/mukava-del-valle-copy/wp-content/plugins/change-image-map/change-image-map.php on line 11
