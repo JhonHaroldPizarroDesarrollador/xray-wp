@@ -7,3 +7,4 @@ Wordpress - Web Scraping whit X-Ray and Node.js
    Esto instalara el x-ray ya que no se suben estos archivos a git para evitar que sea pesado el repo.
 3. Para iniciar: nmp run wordpress
 4. Automaticamente se levanta un servidor el en puerto 7000 (http://127.0.0.1:7000/)
+5. Librerias usadas "x-ray": "^2.3.3"
